@@ -3,7 +3,7 @@ admin/**
 
 # KiCAD Backups
 circuitry/*-backups**
-circuitry/*.bak
+circuitry/**/*.bak
 
 # Lock Files
 ~*.lck
